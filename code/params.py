@@ -20,7 +20,6 @@
 # ----------------------------------------------------------------------------
 
 from brian2 import *
-from matplotlib.pylab import *
 
 '''
 Define network parameters
