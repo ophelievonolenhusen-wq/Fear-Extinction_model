@@ -31,6 +31,8 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
 protocol = int(sys.argv[1])
+param = int(sys.argv[2])
+print("param")
 
 seed(100) # seed of the random number generator
 
